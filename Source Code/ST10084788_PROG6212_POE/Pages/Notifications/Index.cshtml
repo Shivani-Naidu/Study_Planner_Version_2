@@ -1,0 +1,49 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Notifications.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Reminder Information</h1>
+@*display fields to user*@
+<p>
+    <a asp-page="Create" style="color:darkblue">Add A Reminder</a>
+</p>
+<table class="table" style="color:darkblue; background-color:lightblue;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Notification[0].NotifyModuleCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notification[0].DayOfTheWeek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notification[0].Username)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Notification) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NotifyModuleCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DayOfTheWeek)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @* links to the edit, delete, and details page *@
+                  <a asp-page="./Details" style="color:darkblue" asp-route-id="@item.NotificationID">Details</a> |
+                  <a asp-page="./Delete" style="color:darkblue" asp-route-id="@item.NotificationID">Delete</a> |
+                  <a asp-page="./Edit" style="color:darkblue" asp-route-id="@item.NotificationID">Edit</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

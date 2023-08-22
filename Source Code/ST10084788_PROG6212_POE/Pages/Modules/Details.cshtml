@@ -1,0 +1,90 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Modules.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Module Summary</h1>
+
+<div>
+  
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.SemesterName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.SemesterName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.ModuleCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.ModuleCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.Username)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.ModuleName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.ModuleName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.ModuleCredits)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.ModuleCredits)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Module.ClassHoursPerWeek)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Module.ClassHoursPerWeek)
+        </dd>
+        
+        <dt class="col-sm-10">
+            @Html.DisplayFor(model => Model.displayTitle)
+        </dt>
+        
+        <dt class="col-sm-10">
+            <h9> Self-Study Hours That Are Required For This Week </h9>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => model.Module.NeededHoursToStudy)
+        </dd>
+        <dt class="col-sm-10">
+       
+        </dt>
+
+        <dt class="col-sm-10">
+            <h9>Hours Studied During This Week </h9>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => Model.hoursStudiedThisWeek)
+        </dd>
+
+        <dt class="col-sm-10">
+            <h9>Remaining Self-Study Hours For This Week </h9>
+        </dt>
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => Model.remainingHours)
+        </dd>
+
+        <dl class="row">
+            <dt class="col-sm-12">
+                @Html.DisplayFor(model => Model.message1)
+            </dt>
+        </dl>
+
+    </dl>
+</div>
+<div>
+    
+    <a asp-page="./Index" style="color:darkblue">Back To Modules</a>
+</div>

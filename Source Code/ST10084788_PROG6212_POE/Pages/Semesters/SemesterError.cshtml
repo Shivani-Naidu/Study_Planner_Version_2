@@ -1,0 +1,16 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Semesters.SemesterErrorModel
+@{
+}
+@* display error message to user*@
+<h1>This Semester Already Exists!</h1>
+
+<div>
+    <a asp-page="Index" style="color:darkblue" >Return To Semester Page</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

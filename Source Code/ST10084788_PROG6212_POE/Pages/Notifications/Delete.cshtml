@@ -1,0 +1,42 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Notifications.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+@* display fields to user *@
+<h3>Are You Sure You Want To Delete This?</h3>
+<div>
+    <h4>Notification</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.NotifyModuleCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.NotifyModuleCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.DayOfTheWeek)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.DayOfTheWeek)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.Username)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Notification.NotificationID" />
+        @* delete button*@
+        <input type="submit" style="background-color:slateblue; color: darkblue" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index" style="color:darkblue">Back To Reminders</a>
+    </form>
+</div>

@@ -1,0 +1,63 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Modules.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>New Module Data</h1>
+
+<h4>Please Fill In The Details Below</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*get user's input for module information*@
+            <div class="form-group">
+                @*get the semester name from a select list*@
+                <label asp-for="Module.SemesterName" class="control-label"></label>
+                <select asp-for="Module.SemesterName" class="form-control" asp-items="Model.Options"></select>
+            </div>
+            <div class="form-group">
+                @*get the module code*@
+                <label asp-for="Module.ModuleCode" class="control-label"></label>
+                <input asp-for="Module.ModuleCode" class="form-control" />
+                <span asp-validation-for="Module.ModuleCode" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                @*get the module name*@
+                <label asp-for="Module.ModuleName" class="control-label"></label>
+                <input asp-for="Module.ModuleName" class="form-control" />
+                <span asp-validation-for="Module.ModuleName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @*get the module credits*@
+                <label asp-for="Module.ModuleCredits" class="control-label"></label>
+                <input asp-for="Module.ModuleCredits" class="form-control" />
+                <span asp-validation-for="Module.ModuleCredits" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                @*get the class hours per week*@
+                <label asp-for="Module.ClassHoursPerWeek" class="control-label"></label>
+                <input asp-for="Module.ClassHoursPerWeek" class="form-control" />
+                <span asp-validation-for="Module.ClassHoursPerWeek" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                @*button to get all details and then determine if all fields have been entered*@
+                <input type="submit" value="Create" style="background-color:slateblue; color: darkblue" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @*link provided at the bottom of the create page which allows users to navigate back to the module page*@
+    <a asp-page="Index" style="color:darkblue">Back To Modules</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,20 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.LogoutModel
+@{
+}
+
+<form method="post">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-sm-12 col-md-12 col-lg-4">
+                <p style="color:darkblue;" >Are You sure You Want To Logout?</p>
+                <p>
+                    <button class="btn btn-primary" style="color:darkblue; background-color:mediumpurple;" asp-page-handler="Logout">Yes</button>
+                    <button class="btn btn-light ml-5 border-dark" style="color:darkblue; background-color:mediumpurple;" asp-page-handler="DontLogout">No</button>
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+</form> 

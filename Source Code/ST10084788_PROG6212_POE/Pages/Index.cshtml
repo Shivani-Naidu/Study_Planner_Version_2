@@ -1,0 +1,79 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center" >
+   
+    <h9 class="display-4">Welcome,</h9>
+
+    <dl class="row">
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => Model.DelegateUser)
+        </dd>
+    </dl>
+
+    <dl class="row">
+        <dd class="col-sm-12">
+            @Html.DisplayFor(model => Model.message1)
+        </dd>
+    </dl>    
+</div>
+
+
+<div class="row">
+    <div class="col-md-4" style="background-color: lightblue">
+        <h2>Time Management Website</h2>
+        <p>
+            The Time Management Web Application Was Created For My
+            Prog6212 Portfolio.
+            This Web Application Was Developed With The Intention
+            Of Helping Students To Manage Their Time Efficiently And
+            Achieve All Their Academic Goals. 
+        </p>
+
+    </div>
+
+    <div class="col-md-4" style="background-color: mediumpurple">
+        <h2> Documentation For The Website</h2>
+        <p>
+            All Documentation (Specs/Versions/Plugins, etc.) 
+            For The Web Application
+            Can Be Found Here 
+            
+           
+        <p>
+        <p>
+      
+            ↓
+
+        <p>
+
+            <a class="btn btn-primary" style="background-color:transparent; color:darkblue; border:dotted"
+               href="https://github.com/niniiibae/ST10084788_PROG6212_POE_PART_3/tree/master#readme">Documentation</a>
+       
+    </div>
+
+
+    <div class="col-md-4" style="background-color:lightblue">
+        <h2> About Us - Github Repository </h2>
+        <p>
+            Access And Download The Source Code For The 
+            Time Management Web Application Here
+            
+        <p>
+        <p>
+
+            ↓
+
+        <p>
+
+            <a class="btn btn-primary" style="background-color:transparent; color:darkblue; border:dotted"
+               href="https://github.com/niniiibae/ST10084788_PROG6212_POE_PART_3/tree/master">Github Repository </a>
+        
+
+    </div>
+
+
+</div>

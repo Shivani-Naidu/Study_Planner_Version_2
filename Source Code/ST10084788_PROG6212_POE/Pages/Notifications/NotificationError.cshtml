@@ -1,0 +1,17 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Notifications.NotificationErrorModel
+@{
+}
+@* display error message to the user *@
+<h1>The Selected Day Has Already Been Occupied By A Module!</h1>
+
+<div>
+    <a asp-page="Index"  style="color:darkblue" >Return To Notifications Page</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
+

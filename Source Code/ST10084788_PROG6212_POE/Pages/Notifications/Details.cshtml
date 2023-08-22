@@ -1,0 +1,39 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Notifications.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Reminder Summary</h1>
+
+@* display all fields to the user*@
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.NotifyModuleCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.NotifyModuleCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.DayOfTheWeek)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.DayOfTheWeek)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notification.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notification.Username)
+        </dd>
+    </dl>
+</div>
+<div>
+    
+    <a asp-page="./Index" style="color:darkblue">Back To Reminders</a>
+</div>

@@ -1,0 +1,56 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Semesters.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Semester Information</h1>
+
+<p>
+    <a asp-page="Create" style="color:darkblue">Add A Semester</a>
+</p>
+
+@* display semester info*@
+<table class="table" style="color:darkblue; background-color:lightblue;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester[0].SemesterName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester[0].Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester[0].SemesterWeeks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Semester[0].SemesterDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Semester) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SemesterName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SemesterWeeks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SemesterDate)
+            </td>
+            <td>
+                    @*<a asp-page="./Edit" asp-route-id="@item.SemesterID">Edit</a>*@
+                    <a asp-page="./Details" style="color:darkblue" asp-route-id="@item.SemesterID">Details</a>
+                    @*<a asp-page="./Delete" style="color:darkblue" asp-route-id="@item.SemesterID">Delete</a>*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

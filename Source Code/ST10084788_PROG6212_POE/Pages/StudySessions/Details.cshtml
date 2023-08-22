@@ -1,0 +1,56 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.StudySessions.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Self-Study Session Summary</h1>
+
+@*display study session details to the user*@
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.ModuleCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.ModuleCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.SemesterName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.SemesterName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.StudyDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.StudyDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.HoursStudied)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.HoursStudied)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.StudyWeek)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.StudyWeek)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudySession.Username)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudySession.Username)
+        </dd>
+    </dl>
+</div>
+<div>
+    
+    <a asp-page="./Index" style="color:darkblue">Back To Self-Study Sessions</a>
+</div>

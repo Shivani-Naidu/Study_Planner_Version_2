@@ -1,0 +1,18 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Modules.ModuleErrorModel
+@{
+}
+
+@*Notify user that this module already exists*@
+
+<h1>This Module Already Exists!</h1>
+
+<div>
+    <a asp-page="Index" style="color:darkblue" >Return To Module Page</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

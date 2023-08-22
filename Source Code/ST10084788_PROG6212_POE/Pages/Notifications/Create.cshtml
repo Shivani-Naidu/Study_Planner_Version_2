@@ -1,0 +1,54 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.Notifications.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>New Reminder Data</h1>
+
+<h4>Please Fill In The Fields Below</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*get user's input for reminder information*@
+
+            @*get the module code a select list*@
+            <div class="form-group">
+                <label asp-for="Notification.NotifyModuleCode" class="control-label"></label>
+                <select asp-for="Notification.NotifyModuleCode" class="form-control" asp-items="Model.Options"></select>
+            </div>
+
+            @*get the day of the week from a select list*@
+            <div class="form-group">
+                <label asp-for="Notification.DayOfTheWeek" class="control-label"></label>
+                <select asp-for="Notification.DayOfTheWeek">
+                    <option value="">Choose a day</option>
+                    <option value="Monday">Monday</option>
+                    <option value="Tuesday">Tuesday</option>
+                    <option value="Wednesday">Wednesday</option>
+                    <option value="Thursday">Thursday</option>
+                    <option value="Friday">Friday</option>
+                    <option value="Saturday">Saturday</option>
+                    <option value="Sunday">Sunday</option>
+                </select>
+            </div>
+
+            @*button to get all details and then determine if all fields have been entered*@
+            <div class="form-group">
+                <input type="submit" value="Create" style="background-color:slateblue; color: darkblue" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*link provided at the bottom of the create page which allows users to navigate back to the reminder page*@
+<div>
+    <a asp-page="Index" style="color:darkblue">Back To Reminders</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

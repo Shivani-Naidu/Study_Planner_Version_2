@@ -1,0 +1,60 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.StudySessions.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>StudySession</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="StudySession.StudyId" />
+            <div class="form-group">
+                <label asp-for="StudySession.ModuleCode" class="control-label"></label>
+                <input asp-for="StudySession.ModuleCode" class="form-control" />
+                <span asp-validation-for="StudySession.ModuleCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.SemesterName" class="control-label"></label>
+                <input asp-for="StudySession.SemesterName" class="form-control" />
+                <span asp-validation-for="StudySession.SemesterName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.StudyDate" class="control-label"></label>
+                <input asp-for="StudySession.StudyDate" class="form-control" />
+                <span asp-validation-for="StudySession.StudyDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.HoursStudied" class="control-label"></label>
+                <input asp-for="StudySession.HoursStudied" class="form-control" />
+                <span asp-validation-for="StudySession.HoursStudied" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.StudyWeek" class="control-label"></label>
+                <input asp-for="StudySession.StudyWeek" class="form-control" />
+                <span asp-validation-for="StudySession.StudyWeek" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.Username" class="control-label"></label>
+                <input asp-for="StudySession.Username" class="form-control" />
+                <span asp-validation-for="StudySession.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,66 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.StudySessions.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Self-Study Information</h1>
+
+<p>
+    <a asp-page="Create" style="color:darkblue">Add A Self-Study Session</a>
+</p>
+<table class="table" style="color:darkblue; background-color:lightblue;" >
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].ModuleCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].SemesterName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].StudyDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].HoursStudied)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].StudyWeek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudySession[0].Username)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.StudySession) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModuleCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SemesterName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudyDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoursStudied)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudyWeek)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                
+                    <a asp-page="./Details" style="color:darkblue" asp-route-id="@item.StudyId">Details</a>
+                    <a asp-page="./Delete" style="color:darkblue" asp-route-id="@item.StudyId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

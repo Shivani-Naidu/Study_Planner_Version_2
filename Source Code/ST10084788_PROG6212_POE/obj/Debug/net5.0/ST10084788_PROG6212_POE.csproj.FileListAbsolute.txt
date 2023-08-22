@@ -1,0 +1,534 @@
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.json
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.exe
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.deps.json
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.dev.json
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\scopedcss\bundle\ST10084788_PROG6212_POE.styles.css
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\staticwebassets\ST10084788_PROG6212_POE.StaticWebAssets.Manifest.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.input.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.output.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorCoreGenerate.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\refint\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.genruntimeconfig.cache
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ref\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CopyComplete
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Register.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\SemesterError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.dll
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.pdb
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\ModuleError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\PROG Final POE\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\NotificationError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.json
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.exe
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.deps.json
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.dev.json
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\scopedcss\bundle\ST10084788_PROG6212_POE.styles.css
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\staticwebassets\ST10084788_PROG6212_POE.StaticWebAssets.Manifest.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.input.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.output.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorCoreGenerate.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\ModuleError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\NotificationError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Register.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\SemesterError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CopyComplete
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\refint\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.genruntimeconfig.cache
+C:\Users\shiva\OneDrive\Desktop\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ref\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\appsettings.json
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.exe
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.deps.json
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.json
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.runtimeconfig.dev.json
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\bin\Debug\net5.0\SemesterClassLibrary.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\scopedcss\bundle\ST10084788_PROG6212_POE.styles.css
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\staticwebassets\ST10084788_PROG6212_POE.StaticWebAssets.Manifest.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.input.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.TagHelpers.output.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorCoreGenerate.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Modules\ModuleError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Notifications\NotificationError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Register.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Semesters\SemesterError.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Create.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Delete.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Details.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Edit.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\StudySessions\Index.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.RazorTargetAssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.Views.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.csproj.CopyComplete
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\refint\ST10084788_PROG6212_POE.dll
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.pdb
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ST10084788_PROG6212_POE.genruntimeconfig.cache
+C:\Users\shiva\OneDrive\Desktop\VC\Second Year\Semester 2\PROG6212\ST10084788_PROG6212_POE_PART_3\Source Code\ST10084788_PROG6212_POE\obj\Debug\net5.0\ref\ST10084788_PROG6212_POE.dll

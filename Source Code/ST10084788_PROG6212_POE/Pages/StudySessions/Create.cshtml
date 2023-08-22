@@ -1,0 +1,49 @@
+﻿@page
+@model ST10084788_PROG6212_POE.Pages.StudySessions.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>New Self-Study Session Data</h1>
+
+<h4>Please Fill In The Fields Below</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @* get user's input for study session info*@
+            <div class="form-group">
+                <label asp-for="StudySession.ModuleCode" class="control-label"></label>
+                <select asp-for="StudySession.ModuleCode" class="form-control" asp-items="Model.Options"></select>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="StudySession.StudyDate" class="control-label"></label>
+                <input asp-for="StudySession.StudyDate" class="form-control" />
+                <span asp-validation-for="StudySession.StudyDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StudySession.HoursStudied" class="control-label"></label>
+                <input asp-for="StudySession.HoursStudied" class="form-control" />
+                <span asp-validation-for="StudySession.HoursStudied" class="text-danger"></span>
+            </div>
+
+            @*button to get all details and then determine if all fields have been entered*@
+            <div class="form-group">
+                <input type="submit" value="Create" style="background-color:slateblue; color: darkblue" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*link provided at the bottom of the create page which allows users to navigate back to the semester page*@
+<div>
+    <a asp-page="Index" style="color:darkblue">Back To Self-Study Sessions</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
